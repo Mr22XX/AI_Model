@@ -18,4 +18,4 @@ Data Harga Rumah
 
 ![Screenshot 2025-03-27 104056](https://github.com/user-attachments/assets/27f824e6-eb1d-4d56-82e0-d2364ef46201)
 
-
+Kesimpulan : Harga rumah dengan luas tanah 60 m2 berdasarkan data set di atas adalah 475 Juta

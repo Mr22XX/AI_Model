@@ -2,7 +2,7 @@
 
 ## Regresi Linear
 
-Memprediksi harga rumah berdasarkan luas tanah menggunakan Simple Linear Regression dengan library sklearn.
+Memprediksi harga rumah dengan luas tanah 60 m2 menggunakan Simple Linear Regression dengan library sklearn.
 
 Data Harga Rumah
 
@@ -13,4 +13,9 @@ Data Harga Rumah
 | 70           | 550            |
 | 90           | 700            |
 | 110          | 850            |
+
+* Output : 
+
+![Screenshot 2025-03-27 104056](https://github.com/user-attachments/assets/27f824e6-eb1d-4d56-82e0-d2364ef46201)
+
 

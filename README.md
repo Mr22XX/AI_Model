@@ -1,6 +1,6 @@
 # AI_Model
 
-##Regresi Linear
+## Regresi Linear
 
 Memprediksi harga rumah berdasarkan luas tanah menggunakan Simple Linear Regression dengan library sklearn.
 
